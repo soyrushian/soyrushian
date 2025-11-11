@@ -8,7 +8,7 @@ Arquitecto de dashboards, pipelines y visiones claras del negocio.
 ---
 
 - ⚙️ Herramientas del día a día:  
-  `.sql`, `.py`, `.js`, Looker, Looker Studio, Power BI, Tableau, BigQuery, PostgreSQL, Teradata  
+  `.sql`, `.py`, `.js`, Looker, Looker Studio, Power BI, Tableau, BigQuery, PostgreSQL, Airflow, Python  
 - 🔄 Diseño modelos de datos, ETL/ELT y automatizaciones que no fallan  
 - 📈 Construyo dashboards que cuentan la verdad sin maquillarla  
 - 🌐 Integro sistemas y procesos para mejorar tiempos y decisiones  
