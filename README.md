@@ -61,6 +61,5 @@ Arquitecto de dashboards, pipelines y visiones claras del negocio.
 
 ### 🤝 Conectemos
 📩 LinkedIn → https://www.linkedin.com/in/rushian/  
-📊 GitHub → *donde el dato se vuelve acción*
 
 > *“Los datos son el mapa. Yo soy el compás.”* 🧭⚡
